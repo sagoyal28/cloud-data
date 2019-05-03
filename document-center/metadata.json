@@ -1,0 +1,34 @@
+[
+  {
+    "clientName": "ABC Retirement System",
+	"clientId": "52414202",
+    "portfolioName": null,
+	"portfolioId": null,
+    "portfolioTicker": null,
+    "category": "Invoice",
+    "reportName": "Invoice",
+    "frequency": "Quarterly",
+    "title": "Sample ClientADR Report",
+    "fileExtension": "DOCX",
+    "contentDate": "20190331",
+    "fundName": null,
+    "fundId": null,
+	"docKey": ""
+  },
+  {
+    "clientName": "ABC Retirement System",
+	"clientId": "52414202",
+    "portfolioName": "ABC Index 2060 Fund O",
+	"portfolioId": "COM82824",
+    "portfolioTicker": "COM82824",
+    "category": "Accounting",
+    "reportName": "Accounting Package",
+    "frequency": "Quarterly",
+    "title": "Sample ADR Report",
+    "fileExtension": "DOCX",
+    "contentDate": "20190331",
+    "fundName": null,
+    "fundId": null,
+	"docKey": ""
+  }
+]
