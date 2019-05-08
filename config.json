@@ -1,0 +1,12 @@
+{
+  "webServer": {
+    "port": 9090,
+    "oidc": {
+      "clientId": "0oafki8ni93UpJuPA356",
+      "clientSecret": "DtlWgh1whOVrrG9oU1jhdLMAA8Js23mJkhLgBtoS",
+      "issuer": "https://dev-112030.okta.com/oauth2/default",
+      "redirectUri": "http://localhost:9090/authorization-code/callback",
+      "scope": "openid profile email"
+    }
+  }
+}
